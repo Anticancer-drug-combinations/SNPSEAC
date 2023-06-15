@@ -1,0 +1,6 @@
+git init 
+git add -A
+git commit -am"init"
+git remote add origin http://81.70.76.127:3030/spiritlhl/Cancer_drug_analysis.git
+git push -f origin master
+git -v
